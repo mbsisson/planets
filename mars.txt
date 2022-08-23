@@ -3,3 +3,5 @@ Docked to spacestation and ready for the final sling
 One the way to Mars
 Closing to Mars for landing
 Landed Successfully
+There are no signs of inteligent life 
+  (RStudio)
